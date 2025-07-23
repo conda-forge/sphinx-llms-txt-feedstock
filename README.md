@@ -9,6 +9,10 @@ Package license: MIT
 
 Summary: llms-full.txt generator for Sphinx
 
+Development: https://github.com/jdillard/sphinx-llms-txt
+
+Documentation: https://sphinx-llms-txt.readthedocs.io
+
 Current build status
 ====================
 
