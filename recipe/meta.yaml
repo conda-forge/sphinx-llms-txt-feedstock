@@ -12,7 +12,7 @@ source:
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
-  number: 0
+  number: 1
 
 requirements:
   host:
@@ -37,6 +37,8 @@ about:
   summary: llms-full.txt generator for Sphinx
   license: MIT
   license_file: LICENSE
+  homepage: https://github.com/jdillard/sphinx-llms-txt
+  documentation: https://sphinx-llms-txt.readthedocs.io
 
 extra:
   recipe-maintainers:
