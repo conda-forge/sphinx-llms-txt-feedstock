@@ -37,8 +37,8 @@ about:
   summary: llms-full.txt generator for Sphinx
   license: MIT
   license_file: LICENSE
-  homepage: https://github.com/jdillard/sphinx-llms-txt
-  documentation: https://sphinx-llms-txt.readthedocs.io
+  dev_url: https://github.com/jdillard/sphinx-llms-txt
+  doc_url: https://sphinx-llms-txt.readthedocs.io
 
 extra:
   recipe-maintainers:
