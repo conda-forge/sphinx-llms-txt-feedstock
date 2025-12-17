@@ -1,5 +1,5 @@
 {% set name = "sphinx-llms-txt" %}
-{% set version = "0.7.0" %}
+{% set version = "0.7.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/sphinx_llms_txt-{{ version }}.tar.gz
-  sha256: 006ddf3e4a0d825b28161c5240c3c06a460649d00dd2b034d54c5bc07cfa6c9e
+  sha256: b5cefec19d3fd56670aa4a28917d17d32b22c61a9feadbab8564ad11e932f5c0
 
 build:
   noarch: python
